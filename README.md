@@ -1,2 +1,2 @@
 # barabara-App
-Making Services Available, Accessible and Affordable
+Making Services Available, Accessible, and Affordable
